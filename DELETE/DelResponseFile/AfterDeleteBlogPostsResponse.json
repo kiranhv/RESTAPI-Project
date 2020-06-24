@@ -1,0 +1,88 @@
+{
+    "items": [
+        {
+            "body": "Late that night, Moon-Watcher suddenly awoke. Tired out by the day\u2019s exertions and disasters, he had been sleeping more soundly than usual, yet he was instantly alert at the first faint scrabbling down in the valley.",
+            "category": "string",
+            "category_id": 1,
+            "id": 2,
+            "pub_date": "2016-06-11T16:38:48.496609",
+            "title": "The New Rock"
+        },
+        {
+            "body": "Moon-Watcher and his companions had no recollection of what they had seen, after the crystal had ceased to cast its hypnotic spell over their minds and to experiment with their bodies. The next day, as they went out to forage, they passed it with scarcely a second thought; it was now part of the disregarded background of their lives. They could not eat it, and it could not eat them; therefore it was not important.",
+            "category": "string",
+            "category_id": 1,
+            "id": 3,
+            "pub_date": "2016-06-11T16:38:51.149464",
+            "title": "Academy"
+        },
+        {
+            "body": "The tools they had been programmed to use were simple enough, yet they could change this world and make the man-apes its masters. The most primitive was the hand-held stone, that multiplied manyfold the power of a blow. Then there was the bone club, that lengthened the reach and could provide a buffer against the fangs or claws of angry animals. With these weapons, the limitless food that roamed the savannas was theirs to take.",
+            "category": "string",
+            "category_id": 1,
+            "id": 4,
+            "pub_date": "2016-06-11T16:38:51.508791",
+            "title": "The Leopard"
+        },
+        {
+            "body": "As he led the tribe down to the river in the dim light of dawn, Moon-Watcher paused uncertainly at a familiar spot. Something, he knew, was missing; but what it was, he could not remember. He wasted no mental effort on the problem, for this morning he had more important matters on his mind.",
+            "category": "string",
+            "category_id": 1,
+            "id": 5,
+            "pub_date": "2016-06-19T10:07:47.702359",
+            "title": "Encounter in the Dawn"
+        },
+        {
+            "body": "The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.",
+            "category": "string",
+            "category_id": 1,
+            "id": 6,
+            "pub_date": "2020-06-22T21:28:49.100655",
+            "title": "The Road to Extinction"
+        },
+        {
+            "body": "The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.",
+            "category": "string",
+            "category_id": 1,
+            "id": 7,
+            "pub_date": "2020-06-22T21:33:57.100399",
+            "title": "The Road to Extinction"
+        },
+        {
+            "body": "The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.",
+            "category": "string",
+            "category_id": 1,
+            "id": 8,
+            "pub_date": "2020-06-22T21:35:46.297598",
+            "title": "The Road to Extinction"
+        },
+        {
+            "body": "The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.",
+            "category": "string",
+            "category_id": 1,
+            "id": 9,
+            "pub_date": "2020-06-22T21:37:28.998255",
+            "title": "The Road to Extinction"
+        },
+        {
+            "body": "The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.",
+            "category": "string",
+            "category_id": 1,
+            "id": 10,
+            "pub_date": "2020-06-22T21:38:22.866327",
+            "title": "The Road to Extinction"
+        },
+        {
+            "body": "The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.",
+            "category": "string",
+            "category_id": 1,
+            "id": 11,
+            "pub_date": "2020-06-22T21:39:09.612247",
+            "title": "The Road to Extinction"
+        }
+    ],
+    "page": 1,
+    "pages": 2,
+    "per_page": 10,
+    "total": 16
+}
