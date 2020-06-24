@@ -20,7 +20,7 @@ if __debug__:
 
 ######### Get request with ID ############
 
-response1 = req.get('http://localhost:8888/api/blog/categories/1068')
+response1 = req.get('http://localhost:8888/api/blog/categories/10')
 
 file1 = open('C:/Automation Python/RESTAPI/GET/GetResponse/GetResponsewithID.json', 'w')
 file1.write(response1.text)
